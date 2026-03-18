@@ -7,6 +7,23 @@ This project contains two components built as part of an AI Agentic Bootcamp:
 
 ---
 
+## Environment Variables
+
+The multi-agent pipeline requires an OpenAI API key. Copy `.env_example` to `.env` and fill in your key:
+
+```bash
+cp .env_example .env
+```
+
+`.env`:
+```
+OPENAI_API_KEY=your-openai-api-key-here
+```
+
+The `.env` file is listed in `.gitignore` and will never be committed.
+
+---
+
 ## Installation
 
 Install all dependencies at once using the provided `requirements.txt`:
@@ -30,6 +47,8 @@ pip install -r requirements.txt
 ```
 .
 ├── requirements.txt                # Python dependencies
+├── .env_example                    # Environment variable template (copy to .env)
+├── .gitignore                      # Git ignore rules
 ├── saas_dashboard.py               # Streamlit dashboard app
 ├── saas_monthly_metrics.csv        # Source data (month × region × plan)
 ├── multi_agent_advertising_v2.ipynb  # Multi-agent pipeline (v2, recommended)
@@ -130,13 +149,7 @@ Media Planner      →  MediaPlan (JSON output)
 pip install -r requirements.txt
 ```
 
-Set your OpenAI API key:
-
-```bash
-export OPENAI_API_KEY=your-key-here   # or add it to a .env file
-```
-
-Open the notebook and run all cells:
+Set your API key by copying `.env_example` to `.env` (see Environment Variables above), then open the notebook and run all cells:
 
 ```bash
 jupyter notebook multi_agent_advertising_v2.ipynb

@@ -1,0 +1,107 @@
+{
+  "campaign_prompt": "Launch a campaign for a new eco-friendly water bottle in Bali",
+  "pipeline_version": "v2",
+  "agents": [
+    "Creative Director",
+    "Strategist",
+    "Copywriter",
+    "Media Planner"
+  ],
+  "creative_brief": {
+    "campaign_name": "Bali\u2019s Pure Flow",
+    "tagline_concept": "Refresh Sustainably, Live Consciously",
+    "core_brand_message": "Embrace Bali's natural beauty with every sip from your eco-friendly water bottle, protecting the planet while enjoying pure hydration.",
+    "visual_direction": "Breezy island aesthetic with earthy tones of turquoise and green, featuring lush tropical imagery and minimalist design that highlights the product\u2019s eco-friendliness.",
+    "objectives": [
+      "Raise awareness of the eco-friendly water bottle among Bali's tourists and locals",
+      "Position the brand as a leader in sustainable living",
+      "Drive sales through engaging social media campaigns and local partnerships"
+    ]
+  },
+  "strategy": {
+    "target_audience": "The target audience includes environmentally conscious tourists aged 25-45 visiting Bali, as well as local residents who value sustainability. They are active lifestyle enthusiasts interested in wellness, outdoor activities, and eco-friendly products. This group typically seeks authentic experiences that align with their values and preferences for sustainable living.",
+    "messaging_pillars": [
+      "Sustainability: Highlight the product's eco-friendly materials and impact on reducing plastic waste.",
+      "Lifestyle: Position the water bottle as an essential accessory for an active, health-conscious lifestyle in Bali's natural surroundings.",
+      "Community: Foster a connection with both tourists and locals by promoting a shared commitment to protecting Bali's unique environment."
+    ],
+    "recommended_channels": [
+      "Instagram: Leveraging visual storytelling and user-generated content to engage the audience.",
+      "Local Partnerships: Collaborating with eco-friendly hotels, cafes, and tour operators to promote the product.",
+      "Facebook: Utilizing targeted ads to reach both tourists and the local community."
+    ],
+    "campaign_hooks": [
+      "Join the movement: Showcase how each purchase contributes to plastic waste reduction efforts in Bali.",
+      "Local legends: Share stories of local artisans involved in the creation of the water bottle.",
+      "Refill Stations: Promote the concept of eco-friendly refill stations around Bali as part of the campaign."
+    ]
+  },
+  "copy": {
+    "hero_tagline": "Refresh Sustainably, Live Consciously",
+    "instagram_caption": "Sip mindfully in Bali's paradise \ud83c\udf0a\ud83c\udf3f #EcoFriendly #SustainableLiving #PureHydration #BaliLife #JoinTheMovement",
+    "video_script": "[Scene of pristine Bali waters] \"Quench your thirst while preserving paradise\" [Cut to product shot] \"Grab your eco-friendly bottle today!\"",
+    "email_subject": "Your Sustainable Adventure Starts Here!",
+    "email_preview": "Discover the eco-friendly water bottle that makes a difference in Bali.",
+    "print_headline": "Embrace Bali with Every Sip!",
+    "print_body": "Join the movement for a sustainable future. Our eco-friendly water bottles keep you hydrated while protecting the beauty of Bali. Each sip supports local artisans and reduces plastic waste. Make a change\u2014choose wisely!"
+  },
+  "media_plan": {
+    "total_budget_usd": 50000,
+    "channel_allocations": [
+      {
+        "channel": "Instagram",
+        "percent_of_budget": 40
+      },
+      {
+        "channel": "Local Partnerships",
+        "percent_of_budget": 30
+      },
+      {
+        "channel": "Facebook",
+        "percent_of_budget": 20
+      },
+      {
+        "channel": "Influencer Networks",
+        "percent_of_budget": 10
+      }
+    ],
+    "campaign_timeline_weeks": 8,
+    "kpis": [
+      "Reach 100,000 people on social media",
+      "Achieve a 5% engagement rate on Instagram posts",
+      "Generate 500 pre-orders through local partnerships",
+      "Increase email open rate to 25%"
+    ],
+    "launch_milestones": [
+      "Week 1: Finalize creative assets and partnerships",
+      "Week 2: Launch Instagram and Facebook ads",
+      "Week 3: Host an influencer event in Bali",
+      "Week 4: Roll out local partnerships and refill stations",
+      "Week 5-6: Monitor and optimize ad performance",
+      "Week 7: Start email marketing campaign",
+      "Week 8: Evaluate campaign performance and report outcomes"
+    ]
+  },
+  "token_usage": {
+    "Creative Director": {
+      "input_tokens": 358,
+      "output_tokens": 130,
+      "estimated_cost_usd": 0.0001317
+    },
+    "Strategist": {
+      "input_tokens": 503,
+      "output_tokens": 284,
+      "estimated_cost_usd": 0.00024584999999999993
+    },
+    "Copywriter": {
+      "input_tokens": 838,
+      "output_tokens": 170,
+      "estimated_cost_usd": 0.0002277
+    },
+    "Media Planner": {
+      "input_tokens": 1039,
+      "output_tokens": 252,
+      "estimated_cost_usd": 0.00030704999999999996
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# SaaS Dashboard
+streamlit==1.55.0
+pandas==2.3.3
+numpy==2.4.3
+plotly==6.6.0
+
+# Multi-Agent Advertising Pipeline
+openai-agents==0.12.4
+pydantic==2.12.5
+python-dotenv==1.2.2

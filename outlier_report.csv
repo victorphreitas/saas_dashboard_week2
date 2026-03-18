@@ -1,0 +1,67 @@
+month,region,plan,column,value,bound_violated
+0001-06-25,North America,Enterprise,active_subscribers,6515.0,above upper
+0001-04-25,North America,Enterprise,arpu_usd,444.67,above upper
+0001-04-25,Europe,Enterprise,arpu_usd,444.18,above upper
+0001-05-25,North America,Enterprise,arpu_usd,444.29,above upper
+0001-05-25,APAC,Enterprise,arpu_usd,445.65,above upper
+0001-06-25,North America,Enterprise,arpu_usd,445.73,above upper
+0001-06-25,Europe,Enterprise,arpu_usd,448.48,above upper
+0001-02-24,North America,Enterprise,mrr_usd,1281415.69,above upper
+0001-03-24,North America,Enterprise,mrr_usd,1389894.95,above upper
+0001-03-24,Europe,Enterprise,mrr_usd,1229849.18,above upper
+0001-04-24,North America,Enterprise,mrr_usd,1467721.32,above upper
+0001-04-24,Europe,Enterprise,mrr_usd,1312235.4,above upper
+0001-05-24,North America,Enterprise,mrr_usd,1584291.23,above upper
+0001-05-24,Europe,Enterprise,mrr_usd,1405698.16,above upper
+0001-06-24,North America,Enterprise,mrr_usd,1656939.56,above upper
+0001-06-24,Europe,Enterprise,mrr_usd,1499747.39,above upper
+0001-06-24,APAC,Enterprise,mrr_usd,1270900.96,above upper
+0001-07-24,North America,Enterprise,mrr_usd,1766860.8,above upper
+0001-07-24,Europe,Enterprise,mrr_usd,1578985.4,above upper
+0001-07-24,APAC,Enterprise,mrr_usd,1332900.89,above upper
+0001-08-24,North America,Enterprise,mrr_usd,1841551.88,above upper
+0001-08-24,Europe,Enterprise,mrr_usd,1646250.12,above upper
+0001-08-24,MENA,Enterprise,mrr_usd,1272135.85,above upper
+0001-08-24,APAC,Enterprise,mrr_usd,1411465.69,above upper
+0001-09-24,North America,Enterprise,mrr_usd,1912709.82,above upper
+0001-09-24,Europe,Enterprise,mrr_usd,1722479.93,above upper
+0001-09-24,MENA,Enterprise,mrr_usd,1325161.87,above upper
+0001-09-24,APAC,Enterprise,mrr_usd,1481433.47,above upper
+0001-10-24,North America,Enterprise,mrr_usd,2020695.31,above upper
+0001-10-24,Europe,Enterprise,mrr_usd,1791854.09,above upper
+0001-10-24,MENA,Enterprise,mrr_usd,1393331.54,above upper
+0001-10-24,APAC,Enterprise,mrr_usd,1564402.5,above upper
+0001-11-24,North America,Enterprise,mrr_usd,2099287.88,above upper
+0001-11-24,Europe,Enterprise,mrr_usd,1880655.61,above upper
+0001-11-24,MENA,Enterprise,mrr_usd,1456399.35,above upper
+0001-11-24,APAC,Enterprise,mrr_usd,1668737.48,above upper
+0001-12-24,North America,Enterprise,mrr_usd,2221793.44,above upper
+0001-12-24,Europe,Enterprise,mrr_usd,1998280.68,above upper
+0001-12-24,MENA,Enterprise,mrr_usd,1549109.63,above upper
+0001-12-24,APAC,Enterprise,mrr_usd,1728426.12,above upper
+0001-01-25,North America,Enterprise,mrr_usd,2295955.5,above upper
+0001-01-25,Europe,Enterprise,mrr_usd,2081915.49,above upper
+0001-01-25,MENA,Enterprise,mrr_usd,1619667.54,above upper
+0001-01-25,APAC,Enterprise,mrr_usd,1814235.36,above upper
+0001-02-25,North America,Enterprise,mrr_usd,2417184.04,above upper
+0001-02-25,Europe,Enterprise,mrr_usd,2182177.29,above upper
+0001-02-25,MENA,Enterprise,mrr_usd,1696272.16,above upper
+0001-02-25,APAC,Enterprise,mrr_usd,1908950.19,above upper
+0001-03-25,North America,Enterprise,mrr_usd,2522800.8,above upper
+0001-03-25,Europe,Enterprise,mrr_usd,2317401.97,above upper
+0001-03-25,MENA,Enterprise,mrr_usd,1775169.58,above upper
+0001-03-25,APAC,Enterprise,mrr_usd,2008322.3,above upper
+0001-04-25,North America,Enterprise,mrr_usd,2659582.39,above upper
+0001-04-25,Europe,Enterprise,mrr_usd,2419915.0,above upper
+0001-04-25,MENA,Enterprise,mrr_usd,1855337.68,above upper
+0001-04-25,APAC,Enterprise,mrr_usd,2120329.36,above upper
+0001-05-25,North America,Enterprise,mrr_usd,2780785.05,above upper
+0001-05-25,Europe,Enterprise,mrr_usd,2505732.57,above upper
+0001-05-25,MENA,Enterprise,mrr_usd,1940163.45,above upper
+0001-05-25,APAC,Enterprise,mrr_usd,2219761.15,above upper
+0001-06-25,North America,Enterprise,mrr_usd,2903947.75,above upper
+0001-06-25,Europe,Enterprise,mrr_usd,2631256.18,above upper
+0001-06-25,MENA,Enterprise,mrr_usd,2019065.49,above upper
+0001-06-25,APAC,Enterprise,mrr_usd,2292706.38,above upper
+0001-06-25,North America,Pro,support_tickets,70.0,above upper
+0001-03-25,Europe,Enterprise,nps_score,55.2,above upper

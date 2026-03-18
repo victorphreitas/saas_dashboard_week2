@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find '/home/victor/Desktop/Courses/AI Agentic Bootcamp/Saas Dashboard' -not -path */.venv/* -type f -exec ls -lh {})",
+      "Bash(2)"
+    ]
+  }
+}
